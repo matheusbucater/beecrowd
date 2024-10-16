@@ -1,0 +1,3 @@
+- Digitador Gago
+- https://judge.beecrowd.com/pt/problems/view/2815
+- Python 3.11

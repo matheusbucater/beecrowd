@@ -1,0 +1,3 @@
+- Falha do Motor
+- https://judge.beecrowd.com/pt/problems/view/2167
+- C++ 17

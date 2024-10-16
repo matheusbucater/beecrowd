@@ -1,0 +1,3 @@
+- Pneu
+- https://judge.beecrowd.com/pt/problems/view/2374
+- C++ 17

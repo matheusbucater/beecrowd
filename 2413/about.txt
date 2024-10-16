@@ -1,0 +1,3 @@
+- Busca na Internet
+- https://judge.beecrowd.com/pt/problems/view/2413
+- C++ 17

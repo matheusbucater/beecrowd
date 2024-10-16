@@ -1,0 +1,3 @@
+- Máquina de Café
+- https://judge.beecrowd.com/pt/problems/view/2670
+- C++ 17

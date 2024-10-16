@@ -1,0 +1,3 @@
+- Andando no Tempo
+- https://judge.beecrowd.com/pt/problems/view/2235
+- C++ 20

@@ -1,0 +1,3 @@
+- Sequência Secreta
+- https://judge.beecrowd.com/pt/problems/view/3048
+- C++ 17

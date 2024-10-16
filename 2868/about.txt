@@ -1,0 +1,3 @@
+- Errrou!
+- https://judge.beecrowd.com/pt/problems/view/2868
+- C++ 17
